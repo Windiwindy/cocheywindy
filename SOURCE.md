@@ -5,9 +5,9 @@
   - 公司介绍 [[PDF](Sourcedocs/智行者材料（媒体）.pdf)]
   - contact: 媒体口，Wechat ID: liangyeok
 
-- Alex，图森未来北美
+- 肖浩Alex，图森未来北美
   - contact: 微信名片
 
 - 张嫣Zoey，Bloomberg former colleague
   - Bloomberg自动驾驶口都是她跑的，China's Robocars那篇也是她写的
-  - contact: 
+  - contact: 18516182176
